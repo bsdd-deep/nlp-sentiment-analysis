@@ -52,3 +52,7 @@ Classification Head
   ↓
 Softmax Output
 ```
+# Additional Documentation
+
+## Installation & Setup
+see README
